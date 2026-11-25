@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Subtle monochrome glass halo ring -->
+    <path
+        android:fillColor="#1AFFFFFF"
+        android:strokeColor="#55FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M54,22 A32,32 0 1,1 53.99,22 Z" />
+    <!-- Crisp white crescent moon -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M67,56.5 A17.5,17.5 0 1,1 48.5,37.5 A13.5,13.5 0 0,0 67,56.5 Z" />
+    <!-- Minimalist stars -->
+    <path
+        android:fillColor="#CCFFFFFF"
+        android:pathData="M64,37 L65.4,40.6 L69,42 L65.4,43.4 L64,47 L62.6,43.4 L59,42 L62.6,40.6 Z" />
+    <path
+        android:fillColor="#88FFFFFF"
+        android:pathData="M71,48 L71.9,50.1 L74,51 L71.9,51.9 L71,54 L70.1,51.9 L68,51 L70.1,50.1 Z" />
+</vector>
